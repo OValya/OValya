@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 👋 I'm beginner in ***frontend*** :eyes: and i'm currently learning React and Redux.  
 📝 Now I'm working on my portfolio.   
-💼 I have some projects that I made during my studing in [RSSchool](https://rs.school). But these projects uncomplete and have a lot of 'bad practice' 👎. Don't watch it, please. I'm going to edit these projects in the near future. 
+💼 I have some projects that I made during my studing in [RSSchool](https://rs.school). Some projects uncomplete and I'm going to edit these projects in the near future. 
 
 
 
